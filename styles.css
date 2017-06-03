@@ -21,3 +21,13 @@ body {
   font-size: 16px;
   word-spacing: 0.75em;
 }
+
+.header {
+  margin-bottom: 18px;
+  padding-top: 128px;
+  font-family: Roboto, sans-serif;
+  color: #fff;
+  font-weight: 300;
+  text-align: center;
+  letter-spacing: 2px;
+}
